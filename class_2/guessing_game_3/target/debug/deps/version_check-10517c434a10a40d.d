@@ -1,0 +1,10 @@
+/Users/siddhanthmate/Desktop/AllFiles/CODE/rustLearning/class_2/guessing_game_3/target/debug/deps/libversion_check-10517c434a10a40d.rmeta: /Users/siddhanthmate/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs /Users/siddhanthmate/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs /Users/siddhanthmate/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs /Users/siddhanthmate/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs
+
+/Users/siddhanthmate/Desktop/AllFiles/CODE/rustLearning/class_2/guessing_game_3/target/debug/deps/libversion_check-10517c434a10a40d.rlib: /Users/siddhanthmate/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs /Users/siddhanthmate/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs /Users/siddhanthmate/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs /Users/siddhanthmate/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs
+
+/Users/siddhanthmate/Desktop/AllFiles/CODE/rustLearning/class_2/guessing_game_3/target/debug/deps/version_check-10517c434a10a40d.d: /Users/siddhanthmate/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs /Users/siddhanthmate/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs /Users/siddhanthmate/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs /Users/siddhanthmate/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs
+
+/Users/siddhanthmate/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/lib.rs:
+/Users/siddhanthmate/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/version.rs:
+/Users/siddhanthmate/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/channel.rs:
+/Users/siddhanthmate/.cargo/registry/src/index.crates.io-6f17d22bba15001f/version_check-0.9.4/src/date.rs:
