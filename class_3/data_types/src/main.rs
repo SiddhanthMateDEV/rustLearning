@@ -1,3 +1,5 @@
+use std::io;
+
 fn main() {
     let guess: u32 = "32".trim().parse().expect("Not a number");
     {
@@ -55,6 +57,18 @@ fn main() {
 
     println!("The first value in '_array_numbers': {_first}");
     println!("The first value in '_second_month': {_second_month}");
+
+    println!("Enter an array index: ");
+
+    let mut index = String::new();
+
+    io::stdin().read_line(&mut index).expect("failed to read line");
+
+    let index: usize = index.trim().parse().expect("Enter a number");
+
+    let element = _array_numbers[index];
+
+    println!("The element at 'index': {index} in '_array_numbers' is: {element}")
 }
 
 // Result for the above should be something like this: 
