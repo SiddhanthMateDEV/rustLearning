@@ -15,9 +15,22 @@ fn main() {
     let s3 = String::from("Hello, World");
     let hello = &s3[0..5];
     let world = &s3[7..12];
-
     println!("{} {}", hello, world);
+    
+    let length = s3.len();
+    
+    let s4 = &s3[2..length];
+    println!("{}",s4);
+    
+    let s5 = &s3[2..];
+    println!("{}",s5);
 
+    let _y = first_word(&s3);
+    println!("{}",_y);
+
+    let s6 = [1,2,3,4,5,6];
+    let slice = &s6[1..3];
+    assert_eq!(slice, &[8,9]);
 }
 
 fn str_reader(s: &String)->usize{
@@ -32,4 +45,14 @@ fn str_reader(s: &String)->usize{
     s.len()
 }
 
+fn first_word(s: &String)->&str{
+    let bytes_str = s.as_bytes();
+
+    for (i,&item) in bytes_str.iter().enumerate(){
+        if item == b' '{
+            return &s[..i];
+        }
+    }
+    &s[..]
+}
 
